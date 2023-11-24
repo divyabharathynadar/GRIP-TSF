@@ -1,5 +1,6 @@
 # GRIP-The Spark Foundation
-November2023
+DATA SCIENCE & BUSINESS ANALYTICS INTERNSHIP
+November 2023 Batch
 
 # Iris Dataset with Decision Tree Algorithm
 
