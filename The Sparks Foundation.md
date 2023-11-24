@@ -31,7 +31,7 @@ To see the implementation check this link - #link
     For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically. 
     The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
-To see the implementation click on this link - #link
+To see the implementation click on this link - https://github.com/divyabharathynadar/Task-6_Prediction-using-decision-tree-algorithm/blob/main/TASK6.ipynb 
 
 
 # Authors
