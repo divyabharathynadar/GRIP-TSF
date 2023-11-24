@@ -28,7 +28,7 @@ Required Python libraries: scikit-learn, numpy, pandas, matplotlib, graphviz, se
 The Iris dataset is included in the scikit-learn library, so there's no need to download it separately. The dataset consists of 150 samples from three different species of Iris flowers (Setosa, Versicolor, and Virginica). Each sample has four features: sepal length, sepal width, petal length, and petal width.
 
 ## Implementation
-The Decision Tree algorithm is implemented using the scikit-learn library. The code for this can be found in the TSF Task #6.ipynb file.
+The Decision Tree algorithm is implemented using the scikit-learn library. The code for this can be found in the TSF Task6.ipynb file.
 
 ## Results
 The results of running the Decision Tree algorithm on the Iris dataset is displayed as 1 in accuracy score which is near to 100%. You can also find visualizations of the Decision Tree and other relevant plots.
