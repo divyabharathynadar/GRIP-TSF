@@ -1,4 +1,4 @@
-# GRIP-The Spark Foundation
+# GRIP-The Sparks Foundation
 DATA SCIENCE & BUSINESS ANALYTICS INTERNSHIP
 
 November 2023 Batch
