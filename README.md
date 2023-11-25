@@ -18,13 +18,13 @@ This repository consists of some of the tasks which I have completed given durin
     This is a simple linear regression task as it involves just two variables. Data can be found at http://bit.ly/w-data 
     What will be predicted score if a student study for 9.25 hrs in a day? 
 
-To see the implementation check this link - #link
+To see the implementation check this link - https://github.com/divyabharathynadar/TSF-GRIPNOV23-Task-1_Prediction-using-supervised-machine-learning/blob/main/Task_1.ipynb 
 
 ## Task 2 - Exploring Unsupervised Machine Learning
 
     From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
 
-To see the implementation check this link - #link
+To see the implementation check this link - https://github.com/divyabharathynadar/TSF-GRIPNOV23-Task-2-Prediction-using-unsupervised-machine-learning/blob/main/Task2.ipynb 
 
 ## Task 6 - Exploring Decision Tree Algorithm
 
@@ -37,7 +37,7 @@ To see the implementation click on this link - https://github.com/divyabharathyn
 # Authors
 
 * **Divyabharathy Nadar**  - [Github](https://github.com/divyabharathynadar/)
-                     - [Linkedin](https:)
+                     - [Linkedin](https:https://www.linkedin.com/in/divyabharathy-nadar-108546214/)
 
 
 # Acknowledgments
