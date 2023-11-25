@@ -1,6 +1,6 @@
 # The Sparks Foundation - Internship Tasks
 
-This repository consists of some of the tasks which I have completed given during **Data Science & Business Analytics internship** at **The Sparks Foundation**.
+This repository consists of some of the tasks which I have completed given during **Data Science & Business Analytics internship** at **The Sparks Foundation** (Batch: November 2023)
 
 # About The Sparks Foundation
 
