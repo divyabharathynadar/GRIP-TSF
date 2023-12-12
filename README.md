@@ -34,7 +34,7 @@ To see the implementation check this link - https://github.com/divyabharathynada
 To see the implementation click on this link - https://github.com/divyabharathynadar/Task-6_Prediction-using-decision-tree-algorithm/blob/main/TASK6.ipynb 
 
 
-# Authors
+# Author
 
 * **Divyabharathy Nadar**  - [Github](https://github.com/divyabharathynadar/)
                      - [Linkedin](https:https://www.linkedin.com/in/divyabharathy-nadar-108546214/)
